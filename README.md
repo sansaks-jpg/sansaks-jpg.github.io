@@ -45,9 +45,6 @@ terpasang (dipakai sebagai browser headless via Playwright).
 
 Situs ini statis murni — bisa dihosting di mana saja:
 
-- **GitHub Pages** (yang dipakai saat ini): push ke branch utama, aktifkan Pages
-  di repo settings. Jangan lupa file `.nojekyll` (sudah ada).
-- **Netlify / Vercel**: drag-and-drop folder ini, atau `netlify deploy` /
-  `vercel deploy` dari folder ini.
-
-Setelah pindah domain, perbarui `sitemap.xml` dan `robots.txt`.
+- **GitHub Pages** (yang dipakai saat ini): push ke branch utama, situs live di
+  `https://sansaks-jpg.github.io/`. Jangan lupa file `.nojekyll` (sudah ada).
+- **Netlify / Vercel / Surge**: drag-and-drop folder ini, atau deploy via CLI.

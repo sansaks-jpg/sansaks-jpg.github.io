@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sansaks-jpg.github.io/kebun-sayur/sitemap.xml
+Sitemap: https://sansaks-jpg.github.io/sitemap.xml
